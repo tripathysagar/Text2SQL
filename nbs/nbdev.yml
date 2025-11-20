@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Text2SQL"
+  site-url: "https://tripathysagar.github.io/Text2SQL"
+  description: "for text 2 sql"
+  repo-branch: main
+  repo-url: "https://github.com/tripathysagar/Text2SQL"
