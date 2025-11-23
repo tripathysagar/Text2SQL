@@ -1,6 +1,7 @@
 _docs/
 _proc/
 
+cache/
 *.bak
 .gitattributes
 .last_checked
